@@ -438,7 +438,6 @@ img[alt="style"] {
 
 @media (max-width: 480px) {
   body {
-    backgroung-color: red;
     padding: 0 16px;
   }
 
